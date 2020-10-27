@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  background: green;
+  padding: 5rem 0rem;
+}
+
+body {
+  background: orange;
+}
